@@ -14,4 +14,4 @@ data:
   description: "- Farm and home to [Aldrech](Aldrech.md)\n- was attacked by knolls\n\nAppearances: [Session 1](Session%201.md)"
 ```
 
-[[Campaigns/A Tremor of Magic/A Tremor of Magic.md|]]
+[Campaigns/A Tremor of Magic/A Tremor of Magic.md](Campaigns/A%20Tremor%20of%20Magic/A%20Tremor%20of%20Magic.md)
