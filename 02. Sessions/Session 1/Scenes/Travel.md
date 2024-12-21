@@ -16,5 +16,5 @@ data:
   description: "We begin to travel to the [Aldridge farm](Aldridge%20farm.md). we leave on Tuesday, which is a very misty and cloudy day. We stop for the night, and continue the next day. We discovered we were only a mile away from our destination."
 ```
 
-[Campaigns/A Tremor of Magic/A Tremor of Magic.md](Campaigns/A%20Tremor%20of%20Magic/A%20Tremor%20of%20Magic.md)
-[Campaigns/A Tremor of Magic/02. Sessions/Session 1/Session 1.md](Campaigns/A%20Tremor%20of%20Magic/02.%20Sessions/Session%201/Session%201.md)
+[[Campaigns/A Tremor of Magic/A Tremor of Magic.md|]]
+[[Campaigns/A Tremor of Magic/02. Sessions/Session 1/Session 1.md|]]

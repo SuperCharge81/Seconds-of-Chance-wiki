@@ -14,9 +14,9 @@ data:
   description: "Very tall elf with long black hair and perly white skin. He has a piercing gaze.\n\n- wished to stay anonymous, but had his name weasled out by [Shnarkle](Shnarkle.md)\n- loves [Dragonview](Dragonview.md)\n- hired party to investigate incident at [Aldridge farm](Aldridge%20farm.md)\n\nAppearances: [Session 1](Session%201.md)"
 ```
 
-[Campaigns/A Tremor of Magic/A Tremor of Magic.md](Campaigns/A%20Tremor%20of%20Magic/A%20Tremor%20of%20Magic.md)
-[Campaigns/A Tremor of Magic/05. Locations/Dragonview.md](Campaigns/A%20Tremor%20of%20Magic/05.%20Locations/Dragonview.md)
-[Campaigns/A Tremor of Magic/08. Player Characters/Shnarkle.md](Campaigns/A%20Tremor%20of%20Magic/08.%20Player%20Characters/Shnarkle.md)
-[Campaigns/A Tremor of Magic/03. Non Player Characters/Aldrech.md](Campaigns/A%20Tremor%20of%20Magic/03.%20Non%20Player%20Characters/Aldrech.md)
-[Campaigns/A Tremor of Magic/02. Sessions/Session 1/Session 1.md](Campaigns/A%20Tremor%20of%20Magic/02.%20Sessions/Session%201/Session%201.md)
-[Dragonview](Dragonview.md)
+[[Campaigns/A Tremor of Magic/A Tremor of Magic.md|]]
+[[Campaigns/A Tremor of Magic/05. Locations/Dragonview.md|]]
+[[Campaigns/A Tremor of Magic/08. Player Characters/Shnarkle.md|]]
+[[Campaigns/A Tremor of Magic/03. Non Player Characters/Aldrech.md|]]
+[[Campaigns/A Tremor of Magic/02. Sessions/Session 1/Session 1.md|]]
+[[Dragonview]]

@@ -16,5 +16,5 @@ data:
   description: "We make our way to the [Aldridge farm](Aldridge%20farm.md), and discover it is strangely untouched. There is a half inch layer of dust, despite [Aldrech](Aldrech.md) supposedly only leaving a couple days before. We find three knolls inside the building, and one comes in from behind us."
 ```
 
-[Campaigns/A Tremor of Magic/A Tremor of Magic.md](Campaigns/A%20Tremor%20of%20Magic/A%20Tremor%20of%20Magic.md)
-[Campaigns/A Tremor of Magic/02. Sessions/Session 1/Session 1.md](Campaigns/A%20Tremor%20of%20Magic/02.%20Sessions/Session%201/Session%201.md)
+[[Campaigns/A Tremor of Magic/A Tremor of Magic.md|]]
+[[Campaigns/A Tremor of Magic/02. Sessions/Session 1/Session 1.md|]]
